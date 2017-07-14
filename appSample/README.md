@@ -1,4 +1,5 @@
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# This is a demo project for both github and phonegap
 
 A PhoneGap Hello World template
 
