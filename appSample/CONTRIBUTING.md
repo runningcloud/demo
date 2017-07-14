@@ -22,3 +22,4 @@ All contributions (feature or bug fix) should start with an issue first.
 [pull-request]: https://github.com/phonegap/phonegap-template-hello-world/pulls
 
 # conflict demo 1
+# Conflict Demo 2
